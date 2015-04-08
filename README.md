@@ -1,0 +1,2 @@
+# GuS
+Proiectul la TW
