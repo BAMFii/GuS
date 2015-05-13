@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="C:/Users/Bogdan Nechita/Desktop/main.css" rel="stylesheet"/>
+	</head>
+
+	<body>
+		<title>
+			Guess the Star!	
+		</title>
+		<!--Navigation bar-->
+		  	<div class="nav">
+ 		  		<div class="container">
+					<ul>
+						
+						
+						<li> <a href="#">Log In</a> </li>
+						<li> <a href="#">Register</a> </li>
+						<li>
+							<player><a href="#">Play</a></player></li>
+					</ul>
+		  		</div>	
+			</div>
+
+		<!--in between-->
+		<div class="bkg">
+				
+		</div>
+
+		<!--Footer-->
+		<footer>
+			<!--imaginea cu swagon-->
+			<img src="E:/facultate/Anul II/TW/Proiect GuS (Guess the Star)/PhotoShop/Logo/LogoBam.jpg"/>			
+			<p> BAMFii&#8482 - Powered By ~busaco&#169</p>
+		</footer>
+
+		
+	</body>
+</html>
