@@ -1,0 +1,28 @@
+
+
+footer img{
+	position: relative;
+	height: 55px;
+	width: 45px;
+	left: 900px;
+}
+
+footer p{
+	position: relative;
+	left:800px;
+	}
+
+footer{
+	background-color:#5a5a5a;
+}
+
+.nav li{
+	display:inline;
+}
+
+.bkg {
+	background-image: url('./background.jpg');
+	height: 875px;
+}
+
+
